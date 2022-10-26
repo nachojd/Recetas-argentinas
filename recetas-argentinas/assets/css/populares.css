@@ -54,7 +54,7 @@
 .populares__card___descripcion {
     color: #333333;
     line-height: 1.5;
-    margin: 1rem 0; /* arriba, abajo y lados */
+    margin: 0px;
     text-align: justify;
 }
 
